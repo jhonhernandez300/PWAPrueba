@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "nB/aw5drl51d9f9D9q3wge2LbCTAMDOh/phac3N1ArQ=",
+  "Source": "PWA.Server",
+  "BasePath": "_content/PWA.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\pwa.client\\pwa.client.esproj",
+      "Version": 2,
+      "Source": "pwa.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

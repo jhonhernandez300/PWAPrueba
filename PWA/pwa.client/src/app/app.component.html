@@ -1,0 +1,8 @@
+﻿<app-menu></app-menu>
+<router-outlet></router-outlet>
+
+<div *ngIf="chiste">
+  <p>{{title}}</p>
+  <p>{{chiste}}</p>
+</div>
+<button (click)="obtenerNuevoChiste()">{{ chiste ? 'Generar chiste' : 'Nuevo chiste' }}</button>

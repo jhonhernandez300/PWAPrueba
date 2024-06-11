@@ -1,0 +1,23 @@
+<h2 class="title">Update Book</h2>
+<br />
+
+<div *ngIf="book">
+  <div class="all">
+    <form [formGroup]="myForm" (ngSubmit)="onSubmit()">
+      <div class="form-group">
+        <label for="title">Title:</label>
+        <input formControlName="title" class="form-control"
+          id="title"
+          type="text"
+        />
+        <div *ngIf="f['title'].touched && f['title'].invalid" class="alert alert-danger">
+          <div *ngIf="f['title'].errors && f['title'].errors['required']">
+            Title is required
+          </div>
+        </div>
+      </div>
+
+      <button type="submit" class="btn btn-primary">Update</button>
+    </form>
+  </div>
+</div>
