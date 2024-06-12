@@ -3,48 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\core\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\core\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\core\\interfaces\\ibooksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\ef\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\ef\\repositories\\booksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\ef\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\core\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\core\\models\\updatebookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|c:\\users\\jhon\\onedrive\\documentos\\pwa\\prueba\\pwa\\pwa.server\\core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76348161-EE12-444A-98FA-746E3569CBB7}|PWA.Server\\PWA.Server.csproj|solutionrelative:pwa.server\\core\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,136 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BooksRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\Repositories\\BooksRepository.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\EF\\Repositories\\BooksRepository.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\Repositories\\BooksRepository.cs",
-              "RelativeToolTip": "PWA.Server\\EF\\Repositories\\BooksRepository.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAqwEUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:26:43.217Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IBooksRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Interfaces\\IBooksRepository.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\Core\\Interfaces\\IBooksRepository.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Interfaces\\IBooksRepository.cs",
-              "RelativeToolTip": "PWA.Server\\Core\\Interfaces\\IBooksRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:25:12.929Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\EF\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "PWA.Server\\EF\\Repositories\\BaseRepository.cs",
-              "ViewState": "AQIAAKYAAAAAAAAAAAAqwNEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:26:06.025Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "PWA.Server\\Controllers\\BooksController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAABoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T03:20:08.403Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Interfaces\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\Core\\Interfaces\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Interfaces\\IBaseRepository.cs",
-              "RelativeToolTip": "PWA.Server\\Core\\Interfaces\\IBaseRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAqwDQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:24:40.342Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\Core\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\IUnitOfWork.cs",
-              "RelativeToolTip": "PWA.Server\\Core\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:55:08.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\EF\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\UnitOfWork.cs",
-              "RelativeToolTip": "PWA.Server\\EF\\UnitOfWork.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACMAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T16:44:23.885Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateBookDto.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Models\\UpdateBookDto.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\Core\\Models\\UpdateBookDto.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Models\\UpdateBookDto.cs",
-              "RelativeToolTip": "PWA.Server\\Core\\Models\\UpdateBookDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T17:47:35.494Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Program.cs",
               "RelativeDocumentMoniker": "PWA.Server\\Program.cs",
               "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Program.cs",
               "RelativeToolTip": "PWA.Server\\Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAvwEoAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:09:51.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\EF\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\EF\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PWA.Server\\EF\\ApplicationDbContext.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:29:05.29Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "PWA.Server\\Core\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\jhon\\OneDrive\\Documentos\\PWA\\Prueba\\PWA\\PWA.Server\\Core\\Models\\Book.cs",
-              "RelativeToolTip": "PWA.Server\\Core\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:24:13.103Z"
+              "WhenOpened": "2024-06-12T03:25:49.512Z",
+              "EditorCaption": ""
             }
           ]
         }

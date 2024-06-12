@@ -32,7 +32,10 @@
   "dataGroups": [
     {
       "name": "Chistes_ChuckNorris",
-      "urls": ["https://api.chucknorris.io/jokes/random"],
+      "urls": [
+        "https://api.chucknorris.io/jokes/random",
+        "https://localhost:7104/api/Books/GetAll"
+      ],
       "cacheConfig": {
         "strategy": "freshness",
         "maxAge": "1h",
